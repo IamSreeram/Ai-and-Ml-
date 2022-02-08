@@ -1,4 +1,4 @@
-Hi, I’m @sreeram15
+Hi, I’m sreeram
 
 I’m interested robotics and automation 
 
