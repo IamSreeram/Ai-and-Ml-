@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @sreeram15
-- 👀 I’m interested robotics and automation 
-- 🌱 I’m currently learning programming 
+Hi, I’m @sreeram15
+I’m interested robotics and automation 
+
